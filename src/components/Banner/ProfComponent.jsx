@@ -13,29 +13,22 @@ const ProfComponent = () => {
           <h4>
             Hello <span className="green">I'am</span>
           </h4>
-          <h1 className="green">Gokul</h1>
+          <h1 className="green">GOKUL SIVAKUMAR</h1>
           <h3>Front End Developer</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-            iusto. Adipisci in qui officia provident tenetur sequi, deserunt
-            corporis quos?
+          I am a quick learner and enjoy staying up-to-date with the latest web technologies and trends. As a detail-oriented developer, I take pride in writing clean, maintainable, and efficient code. I believe in continuous learning and constantly strive to improve my skills.
           </p>
           <button>Let's talk</button>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
               <span>
-                <a href="/">
+                <a target="__blank" href="https://www.instagram.com/gokul_street_rider/?igshid=MzRlODBiNWFlZA==">
                   <AiOutlineInstagram />
                 </a>
               </span>
               <span>
-                <a href="/">
-                  <GiEarthAmerica />
-                </a>
-              </span>
-              <span>
-                <a href="/">
+                <a target="__blank"  href="https://www.linkedin.com/in/gokul-s-19171b16b">
                   <FaLinkedinIn />
                 </a>
               </span>
@@ -46,7 +39,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="https://res.cloudinary.com/ghazni/image/upload/v1659082282/Yt-portfolio/Untitled-1_drcspz.png"
+            src="https://lh3.googleusercontent.com/pw/AIL4fc-acwDAsDCti1fWtiyVhHc5PiuJVfdAtrh97Kf2oIJjFbM8hGGG2eARmVQpsuJDL5C0T7Phg_BCoMfKCYr6qedEK57nuXuB1NYH64wKmLvTgCI22_pq218hgdwKnEqLSB5IL15K0WIMoEMhksCT2FtEqA=w914-h1372-s-no?authuser=0"
             alt="profile"
           />
         </Profile>
@@ -147,7 +140,7 @@ const Social = styled.div`
 `;
 const Profile = styled.div`
   img {
-    width: 25rem;
+    width: 18rem;
     filter: drop-shadow(0px 10px 10px #01be9570);
     transition: transform 400ms ease-in-out;
     @media (max-width: 790px) {
