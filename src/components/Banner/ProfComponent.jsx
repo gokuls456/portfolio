@@ -13,8 +13,8 @@ const ProfComponent = () => {
           <h4>
             Hello <span className="green">I'am</span>
           </h4>
-          <h1 className="green">Milad Amiri</h1>
-          <h3>UX/UI Designer and graphic designer</h3>
+          <h1 className="green">Gokul</h1>
+          <h3>Front End Developer</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
             iusto. Adipisci in qui officia provident tenetur sequi, deserunt
