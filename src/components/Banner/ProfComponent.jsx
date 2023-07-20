@@ -38,7 +38,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="https://lh3.googleusercontent.com/pw/AIL4fc-acwDAsDCti1fWtiyVhHc5PiuJVfdAtrh97Kf2oIJjFbM8hGGG2eARmVQpsuJDL5C0T7Phg_BCoMfKCYr6qedEK57nuXuB1NYH64wKmLvTgCI22_pq218hgdwKnEqLSB5IL15K0WIMoEMhksCT2FtEqA=w914-h1372-s-no?authuser=0"
+            src="https://lh3.googleusercontent.com/pw/AIL4fc-82Wh2RB1Rl056ZFZ_37Loh8ZWCTujld-3Q7TWHOEBaesc4Q00_0bNdscBl78ZuOobgSDvdsR8MYh4lRK2U4MOYbWvSaN2W69AlnNOiWt5XK1LPxCRuq8TGYKEeIxO1XXzFySwhsjTQxTzaHpQOiS6Jw=w1280-h1235-s-no?authuser=0"
             alt="profile"
           />
         </Profile>
